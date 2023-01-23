@@ -1,0 +1,29 @@
+#root .App {
+    padding: 0 200px;
+}
+#root .App .stn-banner .stn-header {
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    width: 100%;
+    min-height: 248px;
+
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+#root .App .q {
+    padding-top: 32px;
+}
+#root .App .q-options span {
+    font-size: 12px;
+}
+#root .App .q .q-text{
+    width: 600px;
+}
+#root .App .form .q-submit {
+    margin-top: 56px;
+    background-color: black;
+    width: fit-content;
+}

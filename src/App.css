@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+#root .App {
+  padding: 0 80px;
+}
+#root .App .stn-banner .stn-header {
+  font-size: 40px;
+  color: white;
+  background-color: black;
+  width: 100%;
+  min-height: 248px;
+}
